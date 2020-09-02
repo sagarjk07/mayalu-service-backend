@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "APP_PRIVATE_KEY_TEST",
+  "db": "mongodb://localhost/db_mayalu_test",
+  "port": "3030",
+  "requiresAuth": false
+}

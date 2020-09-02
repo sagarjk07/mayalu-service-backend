@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "ronaldo2014",
+  "db": "mongodb+srv://mayaluremoval:T3chn0l0gy@mayalu0.zzty6.mongodb.net/dbMayalu?retryWrites=true&w=majority",
+  "port": "3000",
+  "requiresAuth": false
+}
